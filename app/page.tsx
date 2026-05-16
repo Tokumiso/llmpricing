@@ -35,6 +35,62 @@ export default function Home() {
       features: "Premium models, unlimited completions, Agent mode",
       api: "No",
     },
+    {
+      name: "Mistral Le Chat Pro",
+      free: "Yes",
+      pro: "$14.99/month",
+      features: "Pixtral vision, web search, code interpreter",
+      api: "Yes",
+    },
+    {
+      name: "Grok Premium",
+      free: "Limited",
+      pro: "$8/month",
+      features: "Grok 3, X integration, real-time data",
+      api: "Yes",
+    },
+    {
+      name: "Microsoft Copilot Pro",
+      free: "Yes (basic)",
+      pro: "$20/month",
+      features: "GPT-4 in Office apps, image generation, priority access",
+      api: "No",
+    },
+    {
+      name: "GitHub Copilot",
+      free: "Limited",
+      pro: "$10/month",
+      features: "Code completion, chat, multi-IDE support",
+      api: "Yes",
+    },
+    {
+      name: "Notion AI",
+      free: "Trial only",
+      pro: "$10/month",
+      features: "AI writing, Q&A on workspace, summarization",
+      api: "No",
+    },
+    {
+      name: "Replit Core",
+      free: "Limited",
+      pro: "$20/month",
+      features: "AI Agent, deployment, multi-language IDE",
+      api: "Yes",
+    },
+    {
+      name: "v0 by Vercel",
+      free: "Trial only",
+      pro: "$20/month",
+      features: "AI-generated React/Next.js UIs from prompts",
+      api: "No",
+    },
+    {
+      name: "Windsurf Pro",
+      free: "Limited",
+      pro: "$15/month",
+      features: "Cascade AI, multi-file editing, agentic flows",
+      api: "No",
+    },
   ];
 
   return (
