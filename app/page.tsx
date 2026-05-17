@@ -128,8 +128,7 @@
     const activeButtonClass =
       "px-4 py-2 rounded-full text-sm font-medium bg-blue-600 text-white transition-colors";
     const inactiveButtonClass =
-      "px-4 py-2 rounded-full text-sm font-medium bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700
-  transition-colors";
+      "px-4 py-2 rounded-full text-sm font-medium bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors";
 
     return (
       <main className="min-h-screen bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-950">
